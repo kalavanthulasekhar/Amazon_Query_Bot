@@ -1,0 +1,11 @@
+  "Amazon is a multinational technology company known for e-commerce, cloud computing, and AI. It was founded by Jeff Bezos in 1994.",
+    "Amazon return policy allows returns within 30 days.",
+    "To track your order, go to Your Orders and click Track.",
+    "Amazon Prime gives free delivery and streaming benefits.",
+    "To cancel an order, go to Your Orders and click cancel.",
+    "To login to your Amazon account, go to amazon.com and click Sign In. Enter your email or phone number and password.",
+    "To create a new Amazon account, click 'Create account' on amazon.com and fill in your name, email, and password.",
+    "Amazon Prime membership costs $14.99 per month or $139 per year.",
+    "To reset your Amazon password, click 'Forgot password' on the sign-in page and follow the instructions sent to your email.",
+    "Amazon offers free standard shipping on orders over $25 for non-Prime members.",
+    "You can contact Amazon customer service by visiting amazon.com/help or calling 1-888-280-4331."
